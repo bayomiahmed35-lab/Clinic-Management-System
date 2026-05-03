@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\user\source\repos\Project2\Project2\FileName.cpp(301,68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\source\repos\Project2\Project2\FileName.cpp(701,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\source\repos\Project2\Project2\FileName.cpp(802,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project2.vcxproj -> C:\Users\user\source\repos\Project2\x64\Debug\Project2.exe
